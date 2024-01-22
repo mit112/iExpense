@@ -11,6 +11,7 @@
 		417B4A8E2B5E378200A91AAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 417B4A8D2B5E378200A91AAF /* ContentView.swift */; };
 		417B4A902B5E378300A91AAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417B4A8F2B5E378300A91AAF /* Assets.xcassets */; };
 		417B4A942B5E378300A91AAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 417B4A932B5E378300A91AAF /* Preview Assets.xcassets */; };
+		41C7E74A2B5F1B1D00AFEB99 /* AddExpense.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C7E7492B5F1B1D00AFEB99 /* AddExpense.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		417B4A8F2B5E378300A91AAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		417B4A912B5E378300A91AAF /* iExpense.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = iExpense.entitlements; sourceTree = "<group>"; };
 		417B4A932B5E378300A91AAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		41C7E7492B5F1B1D00AFEB99 /* AddExpense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpense.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				417B4A8B2B5E378200A91AAF /* iExpenseApp.swift */,
 				417B4A8D2B5E378200A91AAF /* ContentView.swift */,
+				41C7E7492B5F1B1D00AFEB99 /* AddExpense.swift */,
 				417B4A8F2B5E378300A91AAF /* Assets.xcassets */,
 				417B4A912B5E378300A91AAF /* iExpense.entitlements */,
 				417B4A922B5E378300A91AAF /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41C7E74A2B5F1B1D00AFEB99 /* AddExpense.swift in Sources */,
 				417B4A8E2B5E378200A91AAF /* ContentView.swift in Sources */,
 				417B4A8C2B5E378200A91AAF /* iExpenseApp.swift in Sources */,
 			);
